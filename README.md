@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Théo</h1>
-<h3 align="center">A passionate software development student at 42 Angoulême</h3>
+
+
+
+- 🔭 I’m currently working on Get_Next_Line
+
+- 🌱 I’m currently learning **C language**
+
+- 📫 How to reach me **tbriand@student.42.fr**
 
 <div align="center">
+<h3 align="center">A passionate software development student at 42 Angoulême</h3>
   <a href="https://profile.intra.42.fr/users/tbriand" target="_blank">
 	<img src="https://img.shields.io/badge/Intra-tbriand-white?&logo=42&logoColor=white" alt="42SP" />
   </a>
